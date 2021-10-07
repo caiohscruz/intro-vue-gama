@@ -1,0 +1,17 @@
+{
+    "chocolates":[
+      {
+          "id":1, 
+          "image":"dark_choc", 
+          "name":"Dark Chocolate",
+          "description":"This is the chocolate with 70% cocoa"
+      },
+      {
+          "id":2,
+          "image":"white_choc",
+          "name":"White Chocolate",
+          "description":"This is the one made with chocolate butter"
+      }
+    
+    ]
+}
